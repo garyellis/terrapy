@@ -1,0 +1,5 @@
+pytest
+mock
+sh
+PyYAML
+python-gnupg
